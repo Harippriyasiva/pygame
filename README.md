@@ -49,3 +49,28 @@ cheatcodes are case-insensitive
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+--------
+# Dino Adventure
+
+[![Built With Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![Built With Swag](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![Made With Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+Dino Adventure is an exciting, updated version of the iconic Google Chrome dino game, created using Python and Pygame.
+
+<p align='center'>
+	<img src='app.png' width=620 height=218>
+</p>
+
+## How to Get the Game
+
+You can download the project files from here: [Download Dino Adventure](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Dino)
+
+## Requirements
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following dependencies:
+* Pygame
+
+```bash
+pip install pygame
